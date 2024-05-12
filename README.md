@@ -17,6 +17,11 @@ credenciales:
 - Email: usuarioprueba@mail.com
 - Password: Pass123.
 
+## Documentación
+
+La documentación se realizó con Swagger, para ello, una vez el proyecto corra en la ruta {URL_BACKEND}/api/docs
+se podrá ver la documentación y prueba de los endpoints creados. 
+
 
 ## Scripts
 
